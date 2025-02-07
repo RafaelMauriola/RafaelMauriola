@@ -3,6 +3,7 @@
 🎓 **Student at National Major University of San Marcos**  
 💻 **Passionate Programmer | Software Developer | Tech Enthusiast**  
 🚀 **Lifelong Learner | Open-Source Contributor**  
+🇵🇪 **Peruvian**
 
 ---
 
